@@ -9,7 +9,7 @@ $data = json_decode(file_get_contents('php://input'));
 
 $db = new mysqli('localhost', 'ben', 'digger078', 'ideascape');
 
-$if($db->connect_errno > 0) {
+if ($db->connect_errno > 0) {
     die('Unable to connect to database [' . $db->connect_error . ']');
 }
 
