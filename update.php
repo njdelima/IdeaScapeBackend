@@ -16,8 +16,10 @@ if ($db->connect_errno > 0) {
 if (array_key_exists("query", $data)) {
     $url = strstr($data["query"]->url, "#", true);
     $query = "";
+    $pid = 0;
     $id = uniqid("", true);
     if ($data["query"]->pid > 0) {
+        $pid = $data["query"]->pid;
         $query = "SELECT id FROM nodes WHERE session = '".$data["query"]->session."' AND url = '".$url."' AND pid = '"
             .$data["query"]->pid."'";
         if(!$result = $db->query($query)){
@@ -27,7 +29,7 @@ if (array_key_exists("query", $data)) {
             $query = "INSERT INTO nodes (id, pid, url, session, token, time)"
                 ." VALUES ('"
                     ."{$id}"
-                    ."', '{$data["query"]->pid}"
+                    ."', '{$pid}"
                     ."', '{$data["query"]->url}"
                     ."', '{$data["query"]->session}"
                     ."', '{$data["query"]->token}"
@@ -43,7 +45,29 @@ if (array_key_exists("query", $data)) {
         if(!$result = $db->query($query)){
             die('There was an error running the query retrieving nodes with similar URL\'s [' . $db->error . ']');
         }
+        if ($result->num_rows == 0) {
+            $query = "INSERT INTO nodes (id, pid, url, session, token, time)"
+                ." VALUES ('"
+                    ."{$id}"
+                    ."', '{$pid}"
+                    ."', '{$data["query"]->url}"
+                    ."', '{$data["query"]->session}"
+                    ."', '{$data["query"]->token}"
+                    ."', 0";
+            if(!$result = $db->query($query)){
+                die('There was an error running the query adding a new entry [' . $db->error . ']');
+            }
+        } else {
+            $pid = $result->fetch_assoc()["pid"];
+            $id = $result->fetch_assoc()["id"];
+        }
     }
+    $return = json_encode((object)array('query'=>array('id'=>$id,
+                                                    'pid'=>$pid,
+                                                    'req'=>$data["query"]->req,
+                                                    'session'=>$data["query"]->session,
+                                                    'token'=>$data["query"]->token)));
+    echo $return;
 
 
 
