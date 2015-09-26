@@ -48,11 +48,6 @@ if (array_key_exists("query", $data)) {
 
 
 
-        if(!$result = $db->query($query)){
-            die('There was an error running the query adding a new entry or retrieving ID [' . $db->error . ']');
-        }
-    }
-    $query = 'SELECT id, pid FROM nodes WHERE session = \'' . $data["query"]->session . '\' AND url = \'' . $url . '\' AND '
 }
 
 ?>
