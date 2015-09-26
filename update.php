@@ -1,5 +1,3 @@
-<?php>
-
 <?php
 
 file_put_contents('logger.txt', date('l, F jS Y - g:i:s A')."\n", FILE_APPEND);
