@@ -30,8 +30,15 @@ if (array_key_exists("query", $data) && isset($data->query->url)) {
 		$url = $data->query->url;
 	}
     } else {
-        $searchTermsLocation = strpos($data->query->url, "q=") + 2;
-        $url = 'https://www.google.com/#q='.substr($data->query->url, $searchTermsLocation);
+        $searchTermsLocation = strrpos($data->query->url, "q=") + 2;
+	$searchEndLocation = strpos($data->query->url, "&", $searchTermsLocation);
+	if ($searchEndLocation === false) {
+		$searchEndLocation = strlen($data->query->url);
+	}
+        $url = 'https://www.google.com/#q='.substr($data->query->url, $searchTermsLocation, $searchEndLocation - $searchTermsLocation);
+	if ($url == 'https://www.google.com/#q=tps://www.google.com/') {
+		$url = 'https://www.google.com/';
+	}
     }
     //$url = strstr($data->query->url, "#", true);
     $pid = 0;
