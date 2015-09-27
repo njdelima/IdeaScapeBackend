@@ -1,5 +1,8 @@
 <?php
 
+ini_set('display_errors', 'On');
+error_reporting(E_ALL);
+
 file_put_contents('logger.txt', date('l, F jS Y - g:i:s A')."\n", FILE_APPEND);
 file_put_contents('logger.txt', 'POST: '.print_r($_POST, true).'GET: '.print_r($_GET, true), FILE_APPEND);
 file_put_contents('logger.txt', 'BODY: '.print_r(json_decode(file_get_contents('php://input')), true), FILE_APPEND);
@@ -17,14 +20,14 @@ if ($db->connect_errno > 0) {
 
 if (array_key_exists("query", $data)) {
     $google = '/google\.com/';
-    $isGoogle = preg_match($google, $data["query"]->url);
+    $isGoogle = preg_match($google, $data->query->url);
     if ($isGoogle === false) {
         die('An error occured.');
     }
     if (!$isGoogle) {
-        $url = strstr($data["query"]->url, "#", true);
+        $url = strstr($data->query->url, "#", true);
     } else {
-        $searchTermsLocation = strpos($data["query"]->url, "q=") + 2;
+        $searchTermsLocation = strpos($data->query->url, "q=") + 2;
         $url = 'https://www.google.com/#q='.substr($data["query"]->url, $searchTermsLocation);
     }
     $url = strstr($data["query"]->url, "#", true);

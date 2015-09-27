@@ -23,3 +23,327 @@ GET: Array
 (
 )
 BODY: 
+Saturday, September 26th 2015 - 9:54:28 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: 
+Saturday, September 26th 2015 - 11:12:59 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: 
+Saturday, September 26th 2015 - 11:19:37 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: 
+Saturday, September 26th 2015 - 11:23:11 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: 
+Saturday, September 26th 2015 - 11:23:25 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: 
+Sunday, September 27th 2015 - 1:01:49 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: 
+Sunday, September 27th 2015 - 1:02:40 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: 
+Sunday, September 27th 2015 - 1:02:41 AM
+POST: Array
+(
+    [undefined] => 
+)
+GET: Array
+(
+)
+BODY: 
+Sunday, September 27th 2015 - 1:03:23 AM
+POST: Array
+(
+    [undefined] => 
+)
+GET: Array
+(
+)
+BODY: 
+Sunday, September 27th 2015 - 1:03:29 AM
+POST: Array
+(
+    [undefined] => 
+)
+GET: Array
+(
+)
+BODY: 
+Sunday, September 27th 2015 - 1:04:11 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: Array
+(
+    [0] => stdClass Object
+        (
+            [url] => http://reddit.com/
+            [PID] => 0
+            [req] => -2
+            [session] => 10
+            [token] => 10
+        )
+
+    [1] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10
+                    [id] => 5
+                    [session] => 10
+                    [token] => 10
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:05:31 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: Array
+(
+    [0] => stdClass Object
+        (
+            [url] => http://reddit.com/
+            [PID] => 0
+            [req] => -2
+            [session] => 10
+            [token] => 10
+        )
+
+    [1] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10
+                    [id] => 5
+                    [session] => 10
+                    [token] => 10
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:09:11 AM
+POST: Array
+(
+    [{"query"_] =>  {"url":"http://reddit.com/","PID":0, "req":-2, "session": 10, "token": 10}, "viewTime" = [{"elapsedTime":10, "id":5, "session":10, "token":10}]}
+)
+GET: Array
+(
+)
+BODY: 
+Sunday, September 27th 2015 - 1:09:38 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://reddit.com/
+            [PID] => 0
+            [req] => -2
+            [session] => 10
+            [token] => 10
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10
+                    [id] => 5
+                    [session] => 10
+                    [token] => 10
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:03 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://reddit.com/
+            [PID] => 0
+            [req] => -2
+            [session] => 10
+            [token] => 10
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10
+                    [id] => 5
+                    [session] => 10
+                    [token] => 10
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:31 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://reddit.com/
+            [pid] => 0
+            [req] => -2
+            [session] => 10
+            [token] => 10
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10
+                    [id] => 5
+                    [session] => 10
+                    [token] => 10
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:15:17 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://reddit.com/
+            [pid] => 0
+            [req] => -2
+            [session] => 10
+            [token] => 10
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10
+                    [id] => 5
+                    [session] => 10
+                    [token] => 10
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:15:26 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: 
+Sunday, September 27th 2015 - 1:16:03 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://reddit.com/
+            [pid] => 0
+            [req] => -2
+            [session] => 10
+            [token] => 10
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10
+                    [id] => 5
+                    [session] => 10
+                    [token] => 10
+                )
+
+        )
+
+)
+
