@@ -28,15 +28,15 @@ if (array_key_exists("query", $data)) {
         $url = strstr($data->query->url, "#", true);
     } else {
         $searchTermsLocation = strpos($data->query->url, "q=") + 2;
-        $url = 'https://www.google.com/#q='.substr($data["query"]->url, $searchTermsLocation);
+        $url = 'https://www.google.com/#q='.substr($data->query->url, $searchTermsLocation);
     }
-    $url = strstr($data["query"]->url, "#", true);
+    $url = strstr($data->query->url, "#", true);
     $pid = 0;
     $id = uniqid("", true);
-    if ($data["query"]->pid > 0) {
-        $pid = $data["query"]->pid;
-        $query = "SELECT id FROM nodes WHERE session = '".$data["query"]->session."' AND url = '".$url."' AND pid = '"
-            .$data["query"]->pid."'";
+    if ($data->query->pid > 0) {
+        $pid = $data->query->pid;
+        $query = "SELECT id FROM nodes WHERE session = '".$data->query->session."' AND url = '".$url."' AND pid = '"
+            .$data->query->pid."'";
         if(!$result = $db->query($query)){
             die('There was an error running the query for finding similar ID with same PID [' . $db->error . ']');
         }
@@ -45,9 +45,9 @@ if (array_key_exists("query", $data)) {
                 ." VALUES ('"
                     ."{$id}"
                     ."', '{$pid}"
-                    ."', '{$data["query"]->url}"
-                    ."', '{$data["query"]->session}"
-                    ."', '{$data["query"]->token}"
+                    ."', '{$data->query->url}"
+                    ."', '{$data->query->session}"
+                    ."', '{$data->query->token}"
                     ."', 0";
             if(!$result = $db->query($query)){
                 die('There was an error running the query adding a new entry [' . $db->error . ']');
@@ -56,7 +56,7 @@ if (array_key_exists("query", $data)) {
             $id = $result->fetch_assoc()["id"];
         }
     } else {
-        $query = "SELECT id, pid FROM nodes WHERE session = '".$data["query"]->session."' AND url = '".$url."'";
+        $query = "SELECT id, pid FROM nodes WHERE session = '".$data->query->session."' AND url = '".$url."'";
         if(!$result = $db->query($query)){
             die('There was an error running the query retrieving nodes with similar URL\'s [' . $db->error . ']');
         }
@@ -65,9 +65,9 @@ if (array_key_exists("query", $data)) {
                 ." VALUES ('"
                     ."{$id}"
                     ."', '{$pid}"
-                    ."', '{$data["query"]->url}"
-                    ."', '{$data["query"]->session}"
-                    ."', '{$data["query"]->token}"
+                    ."', '{$data->query->url}"
+                    ."', '{$data->query->session}"
+                    ."', '{$data->query->token}"
                     ."', 0";
             if(!$result = $db->query($query)){
                 die('There was an error running the query adding a new entry [' . $db->error . ']');
@@ -79,9 +79,9 @@ if (array_key_exists("query", $data)) {
     }
     $returnQ = json_encode(array('query'=>array('id'=>$id,
                                             'pid'=>$pid,
-                                            'req'=>$data["query"]->req,
-                                            'session'=>$data["query"]->session,
-                                            'token'=>$data["query"]->token)));
+                                            'req'=>$data->query->req,
+                                            'session'=>$data->query->session,
+                                            'token'=>$data->query->token)));
     echo $returnQ;
 } elseif (array_key_exists("viewTime", $data)) {
     foreach ($data as $currentUpdate) {
@@ -99,9 +99,9 @@ if (array_key_exists("query", $data)) {
 
     // $return1 = json_encode((object)array('query'=>array('id'=>$id,
     //                                                 'pid'=>$pid,
-    //                                                 'req'=>$data["query"]->req,
-    //                                                 'session'=>$data["query"]->session,
-    //                                                 'token'=>$data["query"]->token)));
+    //                                                 'req'=>$data->query->req,
+    //                                                 'session'=>$data->query->session,
+    //                                                 'token'=>$data->query->token)));
     // echo $return;
 
 
