@@ -1,8 +1,8 @@
 var watson = require('watson-developer-cloud');
 
 var concept_insights = watson.concept_insights({
-	username: 'c26ddad4-72d1-459b-853e-c8b5dbf2cb53',
-	password: 'Bbj4lcJOYVnO',
+	username: 'd5f7aa9a-f6ce-4a8c-9355-b142f430c785',
+	password: 'MJX4EfaWkktM',
 	version: "v2"
 });
 
@@ -11,7 +11,8 @@ var bodyParser = require('body-parser');
 var cors = require('cors');
 var app = express();
 
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json({limit: '50mb'}));
+app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 app.use(cors());
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");

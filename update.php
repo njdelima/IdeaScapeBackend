@@ -50,6 +50,7 @@ if (array_key_exists("query", $data)) {
                     ."', '{$data->query->token}"
                     ."', 0)";
             if(!$result = $db->query($query)){
+		die($query."1");
                 die('There was an error running the query adding a new entry [' . $db->error . ']');
             }
         } else {
@@ -68,8 +69,9 @@ if (array_key_exists("query", $data)) {
                     ."', '{$data->query->url}"
                     ."', '{$data->query->session}"
                     ."', '{$data->query->token}"
-                    ."', 0";
+                    ."', 0)";
             if(!$result = $db->query($query)){
+		die($query."2");
                 die('There was an error running the query adding a new entry [' . $db->error . ']');
             }
         } else {
