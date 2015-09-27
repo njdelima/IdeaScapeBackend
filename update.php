@@ -18,7 +18,7 @@ if ($db->connect_errno > 0) {
 
 
 
-if (array_key_exists("query", $data)) {
+if (array_key_exists("query", $data) && isset($data->query->url)) {
     $google = '/google\.com/';
     $isGoogle = preg_match($google, $data->query->url);
     if ($isGoogle === false) {
@@ -26,6 +26,9 @@ if (array_key_exists("query", $data)) {
     }
     if (!$isGoogle) {
         $url = strstr($data->query->url, "#", true);
+	if ($url === false) {
+		$url = $data->query->url;
+	}
     } else {
         $searchTermsLocation = strpos($data->query->url, "q=") + 2;
         $url = 'https://www.google.com/#q='.substr($data->query->url, $searchTermsLocation);
@@ -86,10 +89,11 @@ if (array_key_exists("query", $data)) {
     echo $returnQ;
 }
 if (array_key_exists("viewTime", $data)) {
-    foreach ($data as $currentUpdate) {
-        $query = "UPDATE nodes SET time = $currentUpdate->elapsedTime token = $currentUpdate->token "
+    foreach ($data->viewTime as $currentUpdate) {
+//die(print_r($currentUpdate,true));
+        $query = "UPDATE nodes SET time = $currentUpdate->elapsedTime, token = \"$currentUpdate->token\" "
                     ."WHERE time < $currentUpdate->elapsedTime "
-                    ."AND id = $currentUpdate->id";
+                    ."AND id = \"$currentUpdate->id\"";
         if(!$result = $db->query($query)){
             die('There was an error running the query updating elapsed times [' . $db->error . ']');
         }
@@ -98,14 +102,10 @@ if (array_key_exists("viewTime", $data)) {
 
 
 
-
-    // $return1 = json_encode((object)array('query'=>array('id'=>$id,
-    //                                                 'pid'=>$pid,
-    //                                                 'req'=>$data->query->req,
-    //                                                 'session'=>$data->query->session,
-    //                                                 'token'=>$data->query->token)));
-    // echo $return;
-
+     $returnV = json_encode(array('viewTime'=>array('status'=>"OK")));
+	if (!isset($returnQ)) {
+     		echo $returnV;
+	}
 
 
 
