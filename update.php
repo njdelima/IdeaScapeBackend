@@ -35,15 +35,17 @@ if (array_key_exists("query", $data) && isset($data->query->url)) {
 	if ($searchEndLocation === false) {
 		$searchEndLocation = strlen($data->query->url);
 	}
-        $url = 'https://www.google.com/#q='.substr($data->query->url, $searchTermsLocation, $searchEndLocation - $searchTermsLocation);
-	if ($url == 'https://www.google.com/#q=tps://www.google.com/') {
+	if ($searchTermsLocation != 2) {
+		$url = 'https://www.google.com/#q='.substr($data->query->url, $searchTermsLocation, $searchEndLocation - $searchTermsLocation);
+	} else {
 		$url = 'https://www.google.com/';
 	}
+//	$url = $data->query->url;
     }
     //$url = strstr($data->query->url, "#", true);
     $pid = 0;
     $id = uniqid("", true);
-    if ($data->query->pid != 0) {
+    if ($data->query->pid != 0 && false) {
         $pid = $data->query->pid;
         $query = "SELECT id FROM nodes WHERE session = '".$data->query->session."' AND url = '".$url."' AND pid = '"
             .$data->query->pid."'";
@@ -71,6 +73,9 @@ if (array_key_exists("query", $data) && isset($data->query->url)) {
             die('There was an error running the query retrieving nodes with similar URL\'s [' . $db->error . ']');
         }
         if ($result->num_rows == 0) {
+		if ($data->query->pid != 0 && $result->num_rows == 0) {
+			$pid = $data->query->pid;
+		}
             $query = "INSERT INTO nodes (id, pid, url, session, token, time)"
                 ." VALUES ('"
                     ."{$id}"

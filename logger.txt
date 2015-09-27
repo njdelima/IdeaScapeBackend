@@ -4104,3 +4104,2491 @@ BODY: stdClass Object
 
 )
 
+Sunday, September 27th 2015 - 11:51:50 AM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:01:09 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => join
+    [session] => asdf
+)
+
+Sunday, September 27th 2015 - 12:02:32 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => join
+    [session] => asdf
+)
+
+Sunday, September 27th 2015 - 12:02:59 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => join
+    [session] => asdf
+)
+
+Sunday, September 27th 2015 - 12:03:02 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => join
+    [session] => asdf
+)
+
+Sunday, September 27th 2015 - 12:03:07 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => join
+    [session] => asdf
+)
+
+Sunday, September 27th 2015 - 12:03:30 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => join
+    [session] => asdf
+)
+
+Sunday, September 27th 2015 - 12:19:53 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:20:00 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => 794HVom5MYKZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607dee98ad417.07221484","token":"5607dee98ae2f3.33067811"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=794HVom5MYKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607dee98ad417.07221484
+            [token] => 5607dee98ae2f3.33067811
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:20:09 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => 794HVom5MYKZ-gX_7LHQCw#q=theory of relativity","pid":"5607def0a2d597.29155436","req":-3,"session":"5607dee98ad417.07221484","token":"5607dee98ae2f3.33067811"},"viewTime":[{"elapsedTime":8944,"id":"5607def0a2d597.29155436","session":"5607dee98ad417.07221484","token":"5607dee98ae2f3.33067811"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=794HVom5MYKZ-gX_7LHQCw#q=theory+of+relativity
+            [pid] => 5607def0a2d597.29155436
+            [req] => -3
+            [session] => 5607dee98ad417.07221484
+            [token] => 5607dee98ae2f3.33067811
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 8944
+                    [id] => 5607def0a2d597.29155436
+                    [session] => 5607dee98ad417.07221484
+                    [token] => 5607dee98ae2f3.33067811
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:20:14 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Theory_of_relativity
+            [pid] => 5607def9a8d170.17394307
+            [req] => -4
+            [session] => 5607dee98ad417.07221484
+            [token] => 5607dee98ae2f3.33067811
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5494
+                    [id] => 5607def9a8d170.17394307
+                    [session] => 5607dee98ad417.07221484
+                    [token] => 5607dee98ae2f3.33067811
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:22:41 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:23:12 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:23:13 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=internet backbone","pid":0,"req":-2,"session":"5607df91da2876.05534401","token":"5607df91da3a37.63222944"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=internet%20backbone
+            [pid] => 0
+            [req] => -2
+            [session] => 5607df91da2876.05534401
+            [token] => 5607df91da3a37.63222944
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:23:15 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => st8HVpaxPIKZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607dfb0063087.70211570","token":"5607dfb00643e3.53686723"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=st8HVpaxPIKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607dfb0063087.70211570
+            [token] => 5607dfb00643e3.53686723
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:23:16 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/url?sa] => t
+    [rct] => j
+    [q] => 
+    [esrc] => s
+    [source] => web
+    [cd] => 4
+    [ved] => 0CDcQFjADahUKEwiuuqCmmpfIAhVH2B4KHdMPC1I
+    [url] => https://en.wikipedia.org/wiki/Internet_backbone
+    [usg] => AFQjCNGShNI_Vv2U4DpzhQKe-7S843mssA
+    [sig2] => Ig_X5MPvpJcAoKjwZQeEZg
+    [bvm] => bv.103388427,d.dmo
+    [cad] => rja","pid":0,"req":-3,"session":"5607df91da2876.05534401","token":"5607df91da3a37.63222944"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDcQFjADahUKEwiuuqCmmpfIAhVH2B4KHdMPC1I&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternet_backbone&usg=AFQjCNGShNI_Vv2U4DpzhQKe-7S843mssA&sig2=Ig_X5MPvpJcAoKjwZQeEZg&bvm=bv.103388427,d.dmo&cad=rja
+            [pid] => 0
+            [req] => -3
+            [session] => 5607df91da2876.05534401
+            [token] => 5607df91da3a37.63222944
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:23:22 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => st8HVpaxPIKZ-gX_7LHQCw#q=string theory","pid":-2,"req":-3,"session":"5607dfb0063087.70211570","token":"5607dfb00643e3.53686723"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=st8HVpaxPIKZ-gX_7LHQCw#q=string+theory
+            [pid] => -2
+            [req] => -3
+            [session] => 5607dfb0063087.70211570
+            [token] => 5607dfb00643e3.53686723
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:23:40 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Computer_network
+            [pid] => 0
+            [req] => -4
+            [session] => 5607df91da2876.05534401
+            [token] => 5607df91da3a37.63222944
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:23:43 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Core_router
+            [pid] => 0
+            [req] => -5
+            [session] => 5607df91da2876.05534401
+            [token] => 5607df91da3a37.63222944
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:24:00 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=history of the internet","pid":0,"req":-6,"session":"5607df91da2876.05534401","token":"5607df91da3a37.63222944"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=history%20of%20the%20internet
+            [pid] => 0
+            [req] => -6
+            [session] => 5607df91da2876.05534401
+            [token] => 5607df91da3a37.63222944
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:24:08 PM
+POST: Array
+(
+    [{"query":{"url":"http://www_imagescape_ml/?session] => 5607df91da2876.05534401","pid":0,"req":-7,"session":"5607df91da2876.05534401","token":"5607df91da3a37.63222944"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://www.imagescape.ml/?session=5607df91da2876.05534401
+            [pid] => 0
+            [req] => -7
+            [session] => 5607df91da2876.05534401
+            [token] => 5607df91da3a37.63222944
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:24:50 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:25:04 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => H-AHVuTUNYKZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607e012538a05.89367119","token":"5607e012539823.11876483"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=H-AHVuTUNYKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e012538a05.89367119
+            [token] => 5607e012539823.11876483
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:26:28 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:26:33 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => eeAHVt2hKoKZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607e074d6d949.56516505","token":"5607e074d6e686.95311081"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=eeAHVt2hKoKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e074d6d949.56516505
+            [token] => 5607e074d6e686.95311081
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:29:03 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => D-EHVrGvDIKZ-gX_7LHQCw","pid":0,"req":-3,"session":"5607e074d6d949.56516505","token":"5607e074d6e686.95311081"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=D-EHVrGvDIKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -3
+            [session] => 5607e074d6d949.56516505
+            [token] => 5607e074d6e686.95311081
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:29:11 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => D-EHVrGvDIKZ-gX_7LHQCw#q=white house","pid":-3,"req":-4,"session":"5607e074d6d949.56516505","token":"5607e074d6e686.95311081"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=D-EHVrGvDIKZ-gX_7LHQCw#q=white+house
+            [pid] => -3
+            [req] => -4
+            [session] => 5607e074d6d949.56516505
+            [token] => 5607e074d6e686.95311081
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:29:30 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => KeEHVrb7E4KZ-gX_7LHQCw","pid":0,"req":-5,"session":"5607e074d6d949.56516505","token":"5607e074d6e686.95311081"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=KeEHVrb7E4KZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -5
+            [session] => 5607e074d6d949.56516505
+            [token] => 5607e074d6e686.95311081
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:29:35 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => KeEHVrb7E4KZ-gX_7LHQCw#q=fourth of july","pid":-5,"req":-6,"session":"5607e074d6d949.56516505","token":"5607e074d6e686.95311081"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=KeEHVrb7E4KZ-gX_7LHQCw#q=fourth+of+july
+            [pid] => -5
+            [req] => -6
+            [session] => 5607e074d6d949.56516505
+            [token] => 5607e074d6e686.95311081
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:29:38 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Independence_Day_(United_States)
+            [pid] => -6
+            [req] => -7
+            [session] => 5607e074d6d949.56516505
+            [token] => 5607e074d6e686.95311081
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:30:31 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:30:36 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => bOEHVsWhJIKZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607e167af0365.82415675","token":"5607e167af11e9.22117095"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=bOEHVsWhJIKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e167af0365.82415675
+            [token] => 5607e167af11e9.22117095
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:30:40 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => bOEHVsWhJIKZ-gX_7LHQCw#q=cinco de mayo","pid":-2,"req":-3,"session":"5607e167af0365.82415675","token":"5607e167af11e9.22117095"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=bOEHVsWhJIKZ-gX_7LHQCw#q=cinco+de+mayo
+            [pid] => -2
+            [req] => -3
+            [session] => 5607e167af0365.82415675
+            [token] => 5607e167af11e9.22117095
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:32:00 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:32:04 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => xOEHVrG3JIKZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607e1c0d95b67.04057037","token":"5607e1c0d96a58.74142023"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=xOEHVrG3JIKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e1c0d95b67.04057037
+            [token] => 5607e1c0d96a58.74142023
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:32:09 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => xOEHVrG3JIKZ-gX_7LHQCw#q=babe ruth","pid":-2,"req":-3,"session":"5607e1c0d95b67.04057037","token":"5607e1c0d96a58.74142023"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=xOEHVrG3JIKZ-gX_7LHQCw#q=babe+ruth
+            [pid] => -2
+            [req] => -3
+            [session] => 5607e1c0d95b67.04057037
+            [token] => 5607e1c0d96a58.74142023
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:33:16 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => C-IHVtTQOoKZ-gX_7LHQCw","pid":0,"req":-4,"session":"5607e1c0d95b67.04057037","token":"5607e1c0d96a58.74142023"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=C-IHVtTQOoKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -4
+            [session] => 5607e1c0d95b67.04057037
+            [token] => 5607e1c0d96a58.74142023
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:33:19 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => C-IHVtTQOoKZ-gX_7LHQCw#q=sam smith","pid":-4,"req":-5,"session":"5607e1c0d95b67.04057037","token":"5607e1c0d96a58.74142023"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=C-IHVtTQOoKZ-gX_7LHQCw#q=sam+smith
+            [pid] => -4
+            [req] => -5
+            [session] => 5607e1c0d95b67.04057037
+            [token] => 5607e1c0d96a58.74142023
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:34:51 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => auIHVvupDYKZ-gX_7LHQCw","pid":0,"req":-6,"session":"5607e1c0d95b67.04057037","token":"5607e1c0d96a58.74142023"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=auIHVvupDYKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -6
+            [session] => 5607e1c0d95b67.04057037
+            [token] => 5607e1c0d96a58.74142023
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:35:02 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:35:23 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:35:26 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => jeIHVpKkOIKZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607e28b6c7b41.00150933","token":"5607e28b6c8ae7.90283749"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=jeIHVpKkOIKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e28b6c7b41.00150933
+            [token] => 5607e28b6c8ae7.90283749
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:35:38 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => jeIHVpKkOIKZ-gX_7LHQCw#q=georgia institute of technology","pid":-2,"req":-3,"session":"5607e28b6c7b41.00150933","token":"5607e28b6c8ae7.90283749"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=jeIHVpKkOIKZ-gX_7LHQCw#q=georgia+institute+of+technology
+            [pid] => -2
+            [req] => -3
+            [session] => 5607e28b6c7b41.00150933
+            [token] => 5607e28b6c8ae7.90283749
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:38:03 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:38:10 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => MuMHVrX2EoKZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607e32b2a6111.27965355","token":"5607e32b2a70e2.29830275"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=MuMHVrX2EoKZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e32b2a6111.27965355
+            [token] => 5607e32b2a70e2.29830275
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:38:14 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => MuMHVrX2EoKZ-gX_7LHQCw#q=scapegoat","pid":-2,"req":-3,"session":"5607e32b2a6111.27965355","token":"5607e32b2a70e2.29830275"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=MuMHVrX2EoKZ-gX_7LHQCw#q=scapegoat
+            [pid] => -2
+            [req] => -3
+            [session] => 5607e32b2a6111.27965355
+            [token] => 5607e32b2a70e2.29830275
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:39:39 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:39:42 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => juMHVtjgA4KZ-gX_7LHQCw","pid":0,"req":-2,"session":"5607e38b02dde4.52283875","token":"5607e38b02ea45.30803112"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=juMHVtjgA4KZ-gX_7LHQCw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:39:54 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => juMHVtjgA4KZ-gX_7LHQCw#q=marilyn monroe","pid":"5607e38e557fe7.19031770","req":-3,"session":"5607e38b02dde4.52283875","token":"5607e38b02ea45.30803112"},"viewTime":[{"elapsedTime":12412,"id":"5607e38e557fe7.19031770","session":"5607e38b02dde4.52283875","token":"5607e38b02ea45.30803112"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=juMHVtjgA4KZ-gX_7LHQCw#q=marilyn+monroe
+            [pid] => 5607e38e557fe7.19031770
+            [req] => -3
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 12412
+                    [id] => 5607e38e557fe7.19031770
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:40:01 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Marilyn_Monroe
+            [pid] => 5607e39ad31056.62709332
+            [req] => -4
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7209
+                    [id] => 5607e39ad31056.62709332
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:40:08 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Dumb_blonde
+            [pid] => 5607e3a1d79fc9.29369040
+            [req] => -5
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6494
+                    [id] => 5607e3a1d79fc9.29369040
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:40:11 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Blonde_stereotype#Dumb_blonde
+            [pid] => 5607e3a85ef599.11058365
+            [req] => -6
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3021
+                    [id] => 5607e3a85ef599.11058365
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:40:19 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Blonde_stereotype#Typology
+            [pid] => 5607e3ab6d96e8.22779586
+            [req] => -7
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7564
+                    [id] => 5607e3ab6d96e8.22779586
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:40:26 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Blonde_stereotype#Dumb_blonde
+            [pid] => 5607e3b300e938.61656748
+            [req] => -8
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7700
+                    [id] => 5607e3b300e938.61656748
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:40:30 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Marilyn_Monroe
+            [pid] => 5607e3bae2f839.74304102
+            [req] => -9
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3388
+                    [id] => 5607e3bae2f839.74304102
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:40:45 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => juMHVtjgA4KZ-gX_7LHQCw#q=marilyn monroe","pid":"5607e3be1904b6.58900739","req":-10,"session":"5607e38b02dde4.52283875","token":"5607e38b02ea45.30803112"},"viewTime":[{"elapsedTime":14898,"id":"5607e3be1904b6.58900739","session":"5607e38b02dde4.52283875","token":"5607e38b02ea45.30803112"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=juMHVtjgA4KZ-gX_7LHQCw#q=marilyn+monroe
+            [pid] => 5607e3be1904b6.58900739
+            [req] => -10
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 14898
+                    [id] => 5607e3be1904b6.58900739
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:41:04 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 19508
+                    [id] => 5607e3cd0a1967.50510898
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:41:08 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => jackie robinson
+    [safe] => off","pid":0,"req":-11,"session":"5607e38b02dde4.52283875","token":"5607e38b02ea45.30803112"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=jackie%20robinson&safe=off
+            [pid] => 0
+            [req] => -11
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:41:13 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5131
+                    [id] => 5607e3e411c508.89017899
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:41:13 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Jackie_Robinson
+            [pid] => 5607e3e411c508.89017899
+            [req] => -12
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:41:21 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7855
+                    [id] => 5607e3e97580f1.42679195
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:41:21 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Major_League_Baseball_Most_Valuable_Player_Award
+            [pid] => 5607e3e97580f1.42679195
+            [req] => -13
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:41:27 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Jackie_Robinson
+            [pid] => 5607e3f11f34f3.04119289
+            [req] => -14
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6377
+                    [id] => 5607e3f11f34f3.04119289
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:41:36 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/African_American
+            [pid] => 5607e3f77b3649.65024522
+            [req] => -15
+            [session] => 5607e38b02dde4.52283875
+            [token] => 5607e38b02ea45.30803112
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 8525
+                    [id] => 5607e3f77b3649.65024522
+                    [session] => 5607e38b02dde4.52283875
+                    [token] => 5607e38b02ea45.30803112
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:49:14 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:49:23 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => 0-UHVv74A4OB-AXCiISQBg","pid":0,"req":-2,"session":"5607e5ca3959e8.34597506","token":"5607e5ca396891.45896838"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=0-UHVv74A4OB-AXCiISQBg
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e5ca3959e8.34597506
+            [token] => 5607e5ca396891.45896838
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:49:33 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => 0-UHVv74A4OB-AXCiISQBg#q=georgia institute of technology","pid":"5607e5d35e2f47.33845822","req":-3,"session":"5607e5ca3959e8.34597506","token":"5607e5ca396891.45896838"},"viewTime":[{"elapsedTime":9729,"id":"5607e5d35e2f47.33845822","session":"5607e5ca3959e8.34597506","token":"5607e5ca396891.45896838"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=0-UHVv74A4OB-AXCiISQBg#q=georgia+institute+of+technology
+            [pid] => 5607e5d35e2f47.33845822
+            [req] => -3
+            [session] => 5607e5ca3959e8.34597506
+            [token] => 5607e5ca396891.45896838
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 9729
+                    [id] => 5607e5d35e2f47.33845822
+                    [session] => 5607e5ca3959e8.34597506
+                    [token] => 5607e5ca396891.45896838
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:49:40 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Georgia_Institute_of_Technology
+            [pid] => 5607e5dd6878c3.16750970
+            [req] => -4
+            [session] => 5607e5ca3959e8.34597506
+            [token] => 5607e5ca396891.45896838
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7194
+                    [id] => 5607e5dd6878c3.16750970
+                    [session] => 5607e5ca3959e8.34597506
+                    [token] => 5607e5ca396891.45896838
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:49:47 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Ramblin%27_Wreck_from_Georgia_Tech
+            [pid] => 5607e5e46c3467.69054702
+            [req] => -5
+            [session] => 5607e5ca3959e8.34597506
+            [token] => 5607e5ca396891.45896838
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6593
+                    [id] => 5607e5e46c3467.69054702
+                    [session] => 5607e5ca3959e8.34597506
+                    [token] => 5607e5ca396891.45896838
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:49:53 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Nikita_Khrushchev
+            [pid] => 5607e5eb700895.76860186
+            [req] => -6
+            [session] => 5607e5ca3959e8.34597506
+            [token] => 5607e5ca396891.45896838
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5799
+                    [id] => 5607e5eb700895.76860186
+                    [session] => 5607e5ca3959e8.34597506
+                    [token] => 5607e5ca396891.45896838
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:49:56 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Ramblin%27_Wreck_from_Georgia_Tech
+            [pid] => 5607e5f1795123.74094387
+            [req] => -7
+            [session] => 5607e5ca3959e8.34597506
+            [token] => 5607e5ca396891.45896838
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 2998
+                    [id] => 5607e5f1795123.74094387
+                    [session] => 5607e5ca3959e8.34597506
+                    [token] => 5607e5ca396891.45896838
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:49:59 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Ford_Model_A_(1927-1931)
+            [pid] => 5607e5f47cb332.96021908
+            [req] => -8
+            [session] => 5607e5ca3959e8.34597506
+            [token] => 5607e5ca396891.45896838
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3017
+                    [id] => 5607e5f47cb332.96021908
+                    [session] => 5607e5ca3959e8.34597506
+                    [token] => 5607e5ca396891.45896838
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:53:09 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:53:21 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => weYHVtyQB4OB-AXCiISQBg","pid":0,"req":-2,"session":"5607e6b5690032.24473367","token":"5607e6b5690ee5.99331899"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=weYHVtyQB4OB-AXCiISQBg
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e6b5690032.24473367
+            [token] => 5607e6b5690ee5.99331899
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:53:26 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => weYHVtyQB4OB-AXCiISQBg#q=walmart","pid":"5607e6c17711c7.70412032","req":-3,"session":"5607e6b5690032.24473367","token":"5607e6b5690ee5.99331899"},"viewTime":[{"elapsedTime":5180,"id":"5607e6c17711c7.70412032","session":"5607e6b5690032.24473367","token":"5607e6b5690ee5.99331899"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=weYHVtyQB4OB-AXCiISQBg#q=walmart
+            [pid] => 5607e6c17711c7.70412032
+            [req] => -3
+            [session] => 5607e6b5690032.24473367
+            [token] => 5607e6b5690ee5.99331899
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5180
+                    [id] => 5607e6c17711c7.70412032
+                    [session] => 5607e6b5690032.24473367
+                    [token] => 5607e6b5690ee5.99331899
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:53:32 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Walmart
+            [pid] => 5607e6c67e0486.05160349
+            [req] => -4
+            [session] => 5607e6b5690032.24473367
+            [token] => 5607e6b5690ee5.99331899
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5615
+                    [id] => 5607e6c67e0486.05160349
+                    [session] => 5607e6b5690032.24473367
+                    [token] => 5607e6b5690ee5.99331899
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:56:07 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 12:56:12 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => bOcHVsfSBoOB-AXCiISQBg","pid":0,"req":-2,"session":"5607e7675782c1.75447426","token":"5607e767579492.36827864"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=bOcHVsfSBoOB-AXCiISQBg
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:56:15 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => bOcHVsfSBoOB-AXCiISQBg#q=babe ruth","pid":"5607e76c69ab05.33093518","req":-3,"session":"5607e7675782c1.75447426","token":"5607e767579492.36827864"},"viewTime":[{"elapsedTime":3084,"id":"5607e76c69ab05.33093518","session":"5607e7675782c1.75447426","token":"5607e767579492.36827864"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=bOcHVsfSBoOB-AXCiISQBg#q=babe+ruth
+            [pid] => 5607e76c69ab05.33093518
+            [req] => -3
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3084
+                    [id] => 5607e76c69ab05.33093518
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:56:21 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Babe_Ruth
+            [pid] => 5607e76f80d974.46520935
+            [req] => -4
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5400
+                    [id] => 5607e76f80d974.46520935
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:56:25 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Major_League_Baseball
+            [pid] => 5607e77586b4d3.08542039
+            [req] => -5
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4201
+                    [id] => 5607e77586b4d3.08542039
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:56:57 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Babe_Ruth
+            [pid] => 5607e7798a6d01.44715235
+            [req] => -6
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 32718
+                    [id] => 5607e7798a6d01.44715235
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:57:02 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Culture_of_the_United_States
+            [pid] => 5607e77586b4d3.08542039
+            [req] => -7
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4582
+                    [id] => 5607e77586b4d3.08542039
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:57:16 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Polynesian_American
+            [pid] => 5607e79eddc5e5.82720519
+            [req] => -8
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 13755
+                    [id] => 5607e79eddc5e5.82720519
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:57:19 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Pacific_Islands_American
+            [pid] => 5607e7ace3cd86.41684370
+            [req] => -9
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 2987
+                    [id] => 5607e7ace3cd86.41684370
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:57:30 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Micronesia
+            [pid] => 5607e7afe8c626.93388718
+            [req] => -10
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 11221
+                    [id] => 5607e7afe8c626.93388718
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:57:37 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Pacific_Islands_American
+            [pid] => 5607e7baefb8b2.42178305
+            [req] => -11
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7484
+                    [id] => 5607e7baefb8b2.42178305
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:57:42 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Culture_of_the_United_States
+            [pid] => 5607e7afe8c626.93388718
+            [req] => -12
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3871
+                    [id] => 5607e7afe8c626.93388718
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:57:46 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Asian_American_culture
+            [pid] => 5607e79eddc5e5.82720519
+            [req] => -13
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3483
+                    [id] => 5607e79eddc5e5.82720519
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:57:49 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Asian_American
+            [pid] => 5607e7ca183685.39296083
+            [req] => -14
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3057
+                    [id] => 5607e7ca183685.39296083
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:58:11 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => shamrocks
+    [safe] => off","pid":0,"req":-15,"session":"5607e7675782c1.75447426","token":"5607e767579492.36827864"},"viewTime":[{"elapsedTime":22312,"id":"5607e7cd1f50e3.40024367","session":"5607e7675782c1.75447426","token":"5607e767579492.36827864"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=shamrocks&safe=off
+            [pid] => 0
+            [req] => -15
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 22312
+                    [id] => 5607e7cd1f50e3.40024367
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:58:20 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Shamrock
+            [pid] => 5607e7e3282519.97850049
+            [req] => -16
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 8892
+                    [id] => 5607e7e3282519.97850049
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:58:37 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/St._Brigid
+            [pid] => 5607e7ec771f46.85962246
+            [req] => -17
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 15963
+                    [id] => 5607e7ec771f46.85962246
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:58:39 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Brigit_of_Kildare
+            [pid] => 5607e7fd65fb27.57499698
+            [req] => -18
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3079
+                    [id] => 5607e7fd65fb27.57499698
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:58:48 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Shamrock
+            [pid] => 5607e7ff6a8244.21968112
+            [req] => -19
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 8751
+                    [id] => 5607e7ff6a8244.21968112
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:58:51 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Dindsenchas
+            [pid] => 5607e7ec771f46.85962246
+            [req] => -20
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3028
+                    [id] => 5607e7ec771f46.85962246
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 12:58:54 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Metrical_Dindshenchus
+            [pid] => 5607e80b74bbc7.62027473
+            [req] => -21
+            [session] => 5607e7675782c1.75447426
+            [token] => 5607e767579492.36827864
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 2996
+                    [id] => 5607e80b74bbc7.62027473
+                    [session] => 5607e7675782c1.75447426
+                    [token] => 5607e767579492.36827864
+                )
+
+        )
+
+)
+
