@@ -30,7 +30,7 @@ if (array_key_exists("query", $data)) {
         $searchTermsLocation = strpos($data->query->url, "q=") + 2;
         $url = 'https://www.google.com/#q='.substr($data->query->url, $searchTermsLocation);
     }
-    $url = strstr($data->query->url, "#", true);
+    //$url = strstr($data->query->url, "#", true);
     $pid = 0;
     $id = uniqid("", true);
     if ($data->query->pid > 0) {
@@ -45,12 +45,11 @@ if (array_key_exists("query", $data)) {
                 ." VALUES ('"
                     ."{$id}"
                     ."', '{$pid}"
-                    ."', '{$data->query->url}"
+                    ."', '{$url}"
                     ."', '{$data->query->session}"
                     ."', '{$data->query->token}"
                     ."', 0)";
             if(!$result = $db->query($query)){
-		die($query."1");
                 die('There was an error running the query adding a new entry [' . $db->error . ']');
             }
         } else {
@@ -66,12 +65,11 @@ if (array_key_exists("query", $data)) {
                 ." VALUES ('"
                     ."{$id}"
                     ."', '{$pid}"
-                    ."', '{$data->query->url}"
+                    ."', '{$url}"
                     ."', '{$data->query->session}"
                     ."', '{$data->query->token}"
                     ."', 0)";
             if(!$result = $db->query($query)){
-		die($query."2");
                 die('There was an error running the query adding a new entry [' . $db->error . ']');
             }
         } else {
