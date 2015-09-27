@@ -87,8 +87,8 @@ if (array_key_exists("query", $data)) {
 }
 if (array_key_exists("viewTime", $data)) {
     foreach ($data as $currentUpdate) {
-        $query = "UPDATE nodes SET time = $currentUpdate->elapsedTime token = $currentUpdate->token "
-                    ."WHERE time < $currentUpdate->elapsedTime "
+        $query = "UPDATE nodes SET time = {$currentUpdate["elapsedTime"]} token = $currentUpdate->token "
+                    ."WHERE time < {$currentUpdate["elapsedTime"]} "
                     ."AND id = $currentUpdate->id";
         if(!$result = $db->query($query)){
             die('There was an error running the query updating elapsed times [' . $db->error . ']');
