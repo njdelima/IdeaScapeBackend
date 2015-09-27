@@ -13,9 +13,21 @@ if ($db->connect_errno > 0) {
     die('Unable to connect to database [' . $db->connect_error . ']');
 }
 
+
+
 if (array_key_exists("query", $data)) {
+    $google = '/google\.com/';
+    $isGoogle = preg_match($google, $data["query"]->url);
+    if ($isGoogle === false) {
+        die('An error occured.');
+    }
+    if (!$isGoogle) {
+        $url = strstr($data["query"]->url, "#", true);
+    } else {
+        $searchTermsLocation = strpos($data["query"]->url, "q=" true) + 2;
+        $url = 'https://www.google.com/#q='.substr($data["query"]->url, $searchTermsLocation);
+    }
     $url = strstr($data["query"]->url, "#", true);
-    $query = "";
     $pid = 0;
     $id = uniqid("", true);
     if ($data["query"]->pid > 0) {
@@ -62,12 +74,32 @@ if (array_key_exists("query", $data)) {
             $id = $result->fetch_assoc()["id"];
         }
     }
-    $return = json_encode((object)array('query'=>array('id'=>$id,
-                                                    'pid'=>$pid,
-                                                    'req'=>$data["query"]->req,
-                                                    'session'=>$data["query"]->session,
-                                                    'token'=>$data["query"]->token)));
-    echo $return;
+    $returnQ = json_encode(array('query'=>array('id'=>$id,
+                                            'pid'=>$pid,
+                                            'req'=>$data["query"]->req,
+                                            'session'=>$data["query"]->session,
+                                            'token'=>$data["query"]->token)));
+    echo $returnQ;
+} elseif (array_key_exists("viewTime", $data)) {
+    foreach ($data as $currentUpdate) {
+        $query = "UPDATE nodes SET time = $currentUpdate->elapsedTime token = $currentUpdate->token "
+                    ."WHERE time < $currentUpdate->elapsedTime "
+                    ."AND id = $currentUpdate->id";
+        if(!$result = $db->query($query)){
+            die('There was an error running the query updating elapsed times [' . $db->error . ']');
+        }
+    }
+
+
+
+
+
+    // $return1 = json_encode((object)array('query'=>array('id'=>$id,
+    //                                                 'pid'=>$pid,
+    //                                                 'req'=>$data["query"]->req,
+    //                                                 'session'=>$data["query"]->session,
+    //                                                 'token'=>$data["query"]->token)));
+    // echo $return;
 
 
 
