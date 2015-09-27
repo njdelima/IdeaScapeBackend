@@ -24,7 +24,7 @@ if (array_key_exists("query", $data)) {
     if (!$isGoogle) {
         $url = strstr($data["query"]->url, "#", true);
     } else {
-        $searchTermsLocation = strpos($data["query"]->url, "q=" true) + 2;
+        $searchTermsLocation = strpos($data["query"]->url, "q=") + 2;
         $url = 'https://www.google.com/#q='.substr($data["query"]->url, $searchTermsLocation);
     }
     $url = strstr($data["query"]->url, "#", true);
