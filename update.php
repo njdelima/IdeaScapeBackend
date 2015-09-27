@@ -33,7 +33,7 @@ if (array_key_exists("query", $data)) {
     //$url = strstr($data->query->url, "#", true);
     $pid = 0;
     $id = uniqid("", true);
-    if ($data->query->pid > 0) {
+    if ($data->query->pid != 0) {
         $pid = $data->query->pid;
         $query = "SELECT id FROM nodes WHERE session = '".$data->query->session."' AND url = '".$url."' AND pid = '"
             .$data->query->pid."'";
@@ -73,8 +73,9 @@ if (array_key_exists("query", $data)) {
                 die('There was an error running the query adding a new entry [' . $db->error . ']');
             }
         } else {
-            $pid = $result->fetch_assoc()["pid"];
-            $id = $result->fetch_assoc()["id"];
+            $line = $result->fetch_assoc();
+            $pid = $line["pid"];
+            $id = $line["id"];
         }
     }
     $returnQ = json_encode(array('query'=>array('id'=>$id,
@@ -83,7 +84,8 @@ if (array_key_exists("query", $data)) {
                                             'session'=>$data->query->session,
                                             'token'=>$data->query->token)));
     echo $returnQ;
-} elseif (array_key_exists("viewTime", $data)) {
+}
+if (array_key_exists("viewTime", $data)) {
     foreach ($data as $currentUpdate) {
         $query = "UPDATE nodes SET time = $currentUpdate->elapsedTime token = $currentUpdate->token "
                     ."WHERE time < $currentUpdate->elapsedTime "
