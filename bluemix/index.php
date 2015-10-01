@@ -27,14 +27,12 @@
 	}
 
 	require_once 'login.php';
-	//echo "CHECKPOINT 1";
 	$connection = new mysqli($db_hostname, $db_username, $db_password, $db_database);
 
 	if ($connection -> connect_error) die ($connection -> connect_error);
 
 	if (isset($_GET['session'])) {
 		$session = $connection -> real_escape_string($_GET['session']);
-	//	echo "session = " . $session;
 	}
 
 	$main_array = array();
@@ -47,7 +45,6 @@
 	}
 
 	$rows = $result->num_rows;
-	//echo "\n\n session id rows=" . $rows;
 	if ($rows === 0) {
 		die("Sorry! No such session ID exists.");
 	}
@@ -60,7 +57,6 @@
 	}
 
 	$rows = $result->num_rows;
-	//echo "\n\n pid 0 rows=" . $rows;
 
 	for ($j = 0; $j < $rows; $j++) {
 		$result -> data_seek($j);
@@ -75,10 +71,7 @@
 		$time = $row['time'];
 		$token = $row['token'];
 
-		//echo "\n\nABOUT TO START TRAVERSAL\n\n";
 		traverse($id, $pid, $url, $time, $token, 1);
-		//echo "\n\nFINISHED TRAVERSE\n\n";
-		//echo "massive string = " . $massive_string;
 
         	$ch = curl_init("http://localhost:2003/");
         	curl_setopt( $ch, CURLOPT_POST, 1);
@@ -98,10 +91,6 @@
 		foreach ($jsonIterator as $key => $val) {
 	    		if ($key === "label") {
 				$mainKey = $mainKey .  $val . ", ";
-				//$count = $count + 1;
-				//if ($count >= 3) {
-				//	break;
-				//}
 			}
 		}
 		$mainKey = substr($mainKey, 0, -2);
@@ -118,12 +107,8 @@
 		if (stripos($currentURL, "google") == false) {
 
 			$temp = file_get_contents($currentURL);
-			//echo "\n\ncurrentId = " . $currentID;
-			//echo "\n\ncurrentURL = " . $currentURL;
-			//echo "\n\ntemp = " . $temp;
 			while ($temp !== false) {
 				$temp = getNextParagraph($temp);
-				//echo "\n\ntemp = " . $temp;
 			}
 		}
 
@@ -152,7 +137,6 @@
 
 	function getNextParagraph($temp) {
 		global $massive_string;
-		//echo "<br><br>Get next para temp = " . $temp . "<br><br>";
 		$pos1 = stripos($temp, "<p>");
 
 		if ($pos1 == false) {
