@@ -6592,3 +6592,3086 @@ BODY: stdClass Object
 
 )
 
+Sunday, September 27th 2015 - 1:01:43 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:02:30 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => file:///C:/Users/Percy/Documents/HackGT2015/IdeaScapeChrome/popup.html
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e8b78a24e9.00264771
+            [token] => 5607e8b78a3f18.10797709
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:02:33 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => file:///C:/Users/Percy/Documents/HackGT2015/IdeaScapeChrome/popup.html
+            [pid] => 0
+            [req] => -3
+            [session] => 5607e8b78a24e9.00264771
+            [token] => 5607e8b78a3f18.10797709
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:02:36 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3098
+                    [id] => 5607e8e6d04604.05587979
+                    [session] => 5607e8b78a24e9.00264771
+                    [token] => 5607e8b78a3f18.10797709
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:03:26 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:05:41 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:06:35 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:06:45 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => 5OkHVs_SH8PA-AWwk4TIBw","pid":0,"req":-2,"session":"5607e9db254713.99661610","token":"5607e9db255ab0.93303151"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=5OkHVs_SH8PA-AWwk4TIBw
+            [pid] => 0
+            [req] => -2
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:06:49 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4645
+                    [id] => 5607e9e53105f8.83478194
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:06:50 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => 5OkHVs_SH8PA-AWwk4TIBw#q=apple computer","pid":"5607e9e53105f8.83478194","req":-3,"session":"5607e9db254713.99661610","token":"5607e9db255ab0.93303151"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=5OkHVs_SH8PA-AWwk4TIBw#q=apple+computer
+            [pid] => 5607e9e53105f8.83478194
+            [req] => -3
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:06:54 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Apple_Inc.
+            [pid] => 5607e9ea35ea36.02077788
+            [req] => -4
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4578
+                    [id] => 5607e9ea35ea36.02077788
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:00 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6350
+                    [id] => 5607e9ee3efbf8.46565083
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:03 PM
+POST: Array
+(
+    [{"query":{"url":"http://www_ideascape_ml/?session] => 5607e9db254713.99661610","pid":0,"req":-5,"session":"5607e9db254713.99661610","token":"5607e9db255ab0.93303151"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://www.ideascape.ml/?session=5607e9db254713.99661610
+            [pid] => 0
+            [req] => -5
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:06 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+            [pid] => 5607e9f7660db2.04151268
+            [req] => -6
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3082
+                    [id] => 5607e9f7660db2.04151268
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:12 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/The_Wall_Street_Journal
+            [pid] => 5607e9fa6f2b84.45632573
+            [req] => -7
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6051
+                    [id] => 5607e9fa6f2b84.45632573
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:21 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+            [pid] => 5607ea0073d725.88713627
+            [req] => -8
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 8710
+                    [id] => 5607ea0073d725.88713627
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:24 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Stock_market_index
+            [pid] => 5607e9fa6f2b84.45632573
+            [req] => -9
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3061
+                    [id] => 5607e9fa6f2b84.45632573
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:34 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+            [pid] => 5607ea0c4f2a00.50598848
+            [req] => -10
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10168
+                    [id] => 5607ea0c4f2a00.50598848
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:46 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => dow jones
+    [safe] => off","pid":0,"req":-11,"session":"5607e9db254713.99661610","token":"5607e9db255ab0.93303151"},"viewTime":[{"elapsedTime":11454,"id":"5607e9fa6f2b84.45632573","session":"5607e9db254713.99661610","token":"5607e9db255ab0.93303151"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=dow%20jones&safe=off
+            [pid] => 0
+            [req] => -11
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 11454
+                    [id] => 5607e9fa6f2b84.45632573
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:07:53 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+            [pid] => 5607ea2258b262.61006886
+            [req] => -12
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6895
+                    [id] => 5607ea2258b262.61006886
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:08:00 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/S%26P_Dow_Jones_Indices
+            [pid] => 5607e9fa6f2b84.45632573
+            [req] => -13
+            [session] => 5607e9db254713.99661610
+            [token] => 5607e9db255ab0.93303151
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7137
+                    [id] => 5607e9fa6f2b84.45632573
+                    [session] => 5607e9db254713.99661610
+                    [token] => 5607e9db255ab0.93303151
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:11:37 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:12:05 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:12:06 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/url?sa] => t
+    [rct] => j
+    [q] => 
+    [esrc] => s
+    [source] => web
+    [cd] => 4
+    [sqi] => 2
+    [ved] => 0CDcQFjADahUKEwiOk8abpZfIAhWKWx4KHa2PA2k
+    [url] => https://en.wikipedia.org/wiki/Internet_backbone
+    [usg] => AFQjCNGShNI_Vv2U4DpzhQKe-7S843mssA
+    [sig2] => outiTn4FmJyPe5Nk55YE2g
+    [bvm] => bv.103388427,d.dmo
+    [cad] => rja","pid":0,"req":-2,"session":"5607eb09373668.40810421","token":"5607eb09374648.94859857"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&sqi=2&ved=0CDcQFjADahUKEwiOk8abpZfIAhWKWx4KHa2PA2k&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternet_backbone&usg=AFQjCNGShNI_Vv2U4DpzhQKe-7S843mssA&sig2=outiTn4FmJyPe5Nk55YE2g&bvm=bv.103388427,d.dmo&cad=rja
+            [pid] => 0
+            [req] => -2
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:12 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Internet_backbone
+            [pid] => 5607eb267f4a02.40952835
+            [req] => -3
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6057
+                    [id] => 5607eb267f4a02.40952835
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607eb09374648.94859857
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:18 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => quantum computing
+    [safe] => off","pid":0,"req":-2,"session":"5607eb25e7ad15.21240696","token":"5607eb25e7bd68.23946236"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=quantum%20computing&safe=off
+            [pid] => 0
+            [req] => -2
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:19 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Tier_1_network
+            [pid] => 0
+            [req] => -4
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:21 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Quantum_computing
+            [pid] => 5607eb320045a0.25223386
+            [req] => -3
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3555
+                    [id] => 5607eb320045a0.25223386
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:22 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10755
+                    [id] => 5607eb2c8953d8.17987542
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607eb09374648.94859857
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:27 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Internet_Protocol
+            [pid] => 0
+            [req] => -5
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:28 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Probabilistic_automaton
+            [pid] => 5607eb359b8834.25828156
+            [req] => -4
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6915
+                    [id] => 5607eb359b8834.25828156
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:31 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Tier_1_network#List_of_tier_1_networks
+            [pid] => 5607eb33cea8e5.11269724
+            [req] => -6
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 11500
+                    [id] => 5607eb33cea8e5.11269724
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607eb09374648.94859857
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:34 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Cogent_Communications
+            [pid] => 0
+            [req] => -7
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:37 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6104
+                    [id] => 5607eb33cea8e5.11269724
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607eb09374648.94859857
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:40 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 12156
+                    [id] => 5607eb3bda8f06.80772086
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607eb09374648.94859857
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:12:44 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 9131
+                    [id] => 5607eb42e72da7.91379911
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607eb09374648.94859857
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:14 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Quantum_computing
+            [pid] => 5607eb3c9f6567.34930426
+            [req] => -5
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 45777
+                    [id] => 5607eb3c9f6567.34930426
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:21 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Decoherence
+            [pid] => 5607eb359b8834.25828156
+            [req] => -6
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6794
+                    [id] => 5607eb359b8834.25828156
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:23 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=history of the internet","pid":0,"req":-8,"session":"5607eb09373668.40810421","token":"5607eb09374648.94859857"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=history%20of%20the%20internet
+            [pid] => 0
+            [req] => -8
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:24 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Quantum_decoherence
+            [pid] => 5607eb71194315.02954393
+            [req] => -7
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3306
+                    [id] => 5607eb71194315.02954393
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:26 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/History_of_the_Internet
+            [pid] => 0
+            [req] => -9
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:30 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Quantum_superposition
+            [pid] => 5607eb74b635b6.41562997
+            [req] => -8
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5779
+                    [id] => 5607eb74b635b6.41562997
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:35 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/ARPANET
+            [pid] => 0
+            [req] => -10
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:37 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+            [pid] => 5607eb7a20d980.18252691
+            [req] => -9
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7550
+                    [id] => 5607eb7a20d980.18252691
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:38 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 12160
+                    [id] => 5607eb76375398.63921076
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607eb09374648.94859857
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:41 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6058
+                    [id] => 5607eb7f4117f5.43223261
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607eb09374648.94859857
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:41 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3890
+                    [id] => 5607eb81bd12a2.22611352
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:44 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => steve jobs
+    [safe] => off","pid":0,"req":-10,"session":"5607eb25e7ad15.21240696","token":"5607eb25e7bd68.23946236"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=steve%20jobs&safe=off
+            [pid] => 0
+            [req] => -10
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:47 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Steve_Jobs
+            [pid] => 5607eb88c4cc53.17329968
+            [req] => -11
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3125
+                    [id] => 5607eb88c4cc53.17329968
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:52 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Steve_Wozniak
+            [pid] => 5607eb8bcc1109.48722257
+            [req] => -12
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4733
+                    [id] => 5607eb8bcc1109.48722257
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:53 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=ipv4 address space","pid":0,"req":-11,"session":"5607eb09373668.40810421","token":"5607eb09374648.94859857"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ipv4%20address%20space
+            [pid] => 0
+            [req] => -11
+            [session] => 5607eb09373668.40810421
+            [token] => 5607eb09374648.94859857
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:13:59 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Steve_Jobs
+            [pid] => 5607eb90cff452.60517329
+            [req] => -13
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7145
+                    [id] => 5607eb90cff452.60517329
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:06 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Calvinism
+            [pid] => 5607eb8bcc1109.48722257
+            [req] => -14
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6762
+                    [id] => 5607eb8bcc1109.48722257
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:23 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Roman_Catholic_Church
+            [pid] => 5607eb9ed64ae3.81807341
+            [req] => -15
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 16969
+                    [id] => 5607eb9ed64ae3.81807341
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:26 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Catholic_Church
+            [pid] => 5607ebafe4b5a7.24516795
+            [req] => -16
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 2996
+                    [id] => 5607ebafe4b5a7.24516795
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:29 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Calvinism
+            [pid] => 5607ebb2e631b1.57895584
+            [req] => -17
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3069
+                    [id] => 5607ebb2e631b1.57895584
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:32 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Real_presence_of_Christ_in_the_Eucharist
+            [pid] => 5607eb9ed64ae3.81807341
+            [req] => -18
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3013
+                    [id] => 5607eb9ed64ae3.81807341
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:35 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Ulrich_Zwingli
+            [pid] => 5607ebb8eaf6b8.61604991
+            [req] => -19
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3005
+                    [id] => 5607ebb8eaf6b8.61604991
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:38 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Real_Presence
+            [pid] => 5607ebbbf19429.73282242
+            [req] => -20
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3083
+                    [id] => 5607ebbbf19429.73282242
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:42 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Huldrych_Zwingli
+            [pid] => 5607ebbef2d5c9.28109558
+            [req] => -21
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3035
+                    [id] => 5607ebbef2d5c9.28109558
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:52 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => hurricane electric
+    [safe] => off","pid":0,"req":-22,"session":"5607eb25e7ad15.21240696","token":"5607eb25e7bd68.23946236"},"viewTime":[{"elapsedTime":10235,"id":"5607ebc2067c76.39143228","session":"5607eb25e7ad15.21240696","token":"5607eb25e7bd68.23946236"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=hurricane%20electric&safe=off
+            [pid] => 0
+            [req] => -22
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 10235
+                    [id] => 5607ebc2067c76.39143228
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:14:57 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Hurricane_Electric
+            [pid] => 5607ebcc0874c2.10946526
+            [req] => -23
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4760
+                    [id] => 5607ebcc0874c2.10946526
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:15:01 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/IPv6
+            [pid] => 5607ebd155e793.83759503
+            [req] => -24
+            [session] => 5607eb25e7ad15.21240696
+            [token] => 5607eb25e7bd68.23946236
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4581
+                    [id] => 5607ebd155e793.83759503
+                    [session] => 5607eb25e7ad15.21240696
+                    [token] => 5607eb25e7bd68.23946236
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:15:27 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => join
+    [session] => 5607eb09373668.40810421
+)
+
+Sunday, September 27th 2015 - 1:15:39 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => javascript heredoc
+    [safe] => off","pid":0,"req":-2,"session":"5607eb09373668.40810421","token":"5607ebefb76a15.11656554"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=javascript%20heredoc&safe=off
+            [pid] => 0
+            [req] => -2
+            [session] => 5607eb09373668.40810421
+            [token] => 5607ebefb76a15.11656554
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:16:46 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => join
+    [session] => 5607eb09373668.40810421
+)
+
+Sunday, September 27th 2015 - 1:17:04 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => barack obama
+    [safe] => off","pid":0,"req":-2,"session":"5607eb09373668.40810421","token":"5607ec3e043176.39949682"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=barack%20obama&safe=off
+            [pid] => 0
+            [req] => -2
+            [session] => 5607eb09373668.40810421
+            [token] => 5607ec3e043176.39949682
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:17:09 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Barack_Obama
+            [pid] => 5607ec50d2f3e9.98052084
+            [req] => -3
+            [session] => 5607eb09373668.40810421
+            [token] => 5607ec3e043176.39949682
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5185
+                    [id] => 5607ec50d2f3e9.98052084
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607ec3e043176.39949682
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:17:17 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/United_States_midterm_elections,_2010
+            [pid] => 5607ec55d8f7e1.05086696
+            [req] => -4
+            [session] => 5607eb09373668.40810421
+            [token] => 5607ec3e043176.39949682
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7814
+                    [id] => 5607ec55d8f7e1.05086696
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607ec3e043176.39949682
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:17:20 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/United_States_elections,_2010
+            [pid] => 5607ec5ddeedc8.77892914
+            [req] => -5
+            [session] => 5607eb09373668.40810421
+            [token] => 5607ec3e043176.39949682
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 2999
+                    [id] => 5607ec5ddeedc8.77892914
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607ec3e043176.39949682
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:17:23 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Barack_Obama
+            [pid] => 5607ec60e35f29.91230737
+            [req] => -6
+            [session] => 5607eb09373668.40810421
+            [token] => 5607ec3e043176.39949682
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3028
+                    [id] => 5607ec60e35f29.91230737
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607ec3e043176.39949682
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:17:26 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Withdrawal_of_U.S._troops_from_Afghanistan
+            [pid] => 5607ec55d8f7e1.05086696
+            [req] => -7
+            [session] => 5607eb09373668.40810421
+            [token] => 5607ec3e043176.39949682
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3061
+                    [id] => 5607ec55d8f7e1.05086696
+                    [session] => 5607eb09373668.40810421
+                    [token] => 5607ec3e043176.39949682
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:17:45 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Afghanistan
+            [pid] => 0
+            [req] => -8
+            [session] => 5607eb09373668.40810421
+            [token] => 5607ec3e043176.39949682
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:19:06 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:19:22 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=internet backbone","pid":0,"req":-2,"session":"5607eccaa41338.26927285","token":"5607eccaa42034.93211891"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=internet%20backbone
+            [pid] => 0
+            [req] => -2
+            [session] => 5607eccaa41338.26927285
+            [token] => 5607eccaa42034.93211891
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:20:37 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=ipv4 address exhaustion","pid":0,"req":-3,"session":"5607eccaa41338.26927285","token":"5607eccaa42034.93211891"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ipv4%20address%20exhaustion
+            [pid] => 0
+            [req] => -3
+            [session] => 5607eccaa41338.26927285
+            [token] => 5607eccaa42034.93211891
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:21:07 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/History_of_the_Internet
+            [pid] => 0
+            [req] => -4
+            [session] => 5607eccaa41338.26927285
+            [token] => 5607eccaa42034.93211891
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:21:36 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=private intranet","pid":0,"req":-5,"session":"5607eccaa41338.26927285","token":"5607eccaa42034.93211891"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=private%20intranet
+            [pid] => 0
+            [req] => -5
+            [session] => 5607eccaa41338.26927285
+            [token] => 5607eccaa42034.93211891
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:24:05 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:24:14 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=internet backbone","pid":0,"req":-2,"session":"5607edf5ca5838.33609193","token":"5607edf5ca6356.26703103"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=internet%20backbone
+            [pid] => 0
+            [req] => -2
+            [session] => 5607edf5ca5838.33609193
+            [token] => 5607edf5ca6356.26703103
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:24:55 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:25:16 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/webhp?sourceid] => chrome-instant
+    [ion] => 1
+    [espv] => 2
+    [ie] => UTF-8#q=internet backbone","pid":0,"req":-2,"session":"5607ee27541ef8.89776562","token":"5607ee27542f95.65542781"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=internet%20backbone
+            [pid] => 0
+            [req] => -2
+            [session] => 5607ee27541ef8.89776562
+            [token] => 5607ee27542f95.65542781
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:25:36 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Sunday, September 27th 2015 - 1:25:40 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => internet backbone
+    [safe] => off","pid":0,"req":-2,"session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=internet%20backbone&safe=off
+            [pid] => 0
+            [req] => -2
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:25:45 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Internet_backbone
+            [pid] => 5607ee54c06ee7.51405319
+            [req] => -3
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4224
+                    [id] => 5607ee54c06ee7.51405319
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:26:25 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 40840
+                    [id] => 5607ee595c8652.17876408
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:26:31 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => history of the internet
+    [safe] => off","pid":0,"req":-4,"session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=history%20of%20the%20internet&safe=off
+            [pid] => 0
+            [req] => -4
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:26:41 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/History_of_the_Internet
+            [pid] => 5607ee87e9bd40.49539565
+            [req] => -5
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 9825
+                    [id] => 5607ee87e9bd40.49539565
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:26:48 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/ARPANET
+            [pid] => 5607ee91b31b29.78380955
+            [req] => -6
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 7008
+                    [id] => 5607ee91b31b29.78380955
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:26:52 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Talk:ARPANET
+            [pid] => 5607ee98bd0681.90318534
+            [req] => -7
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3511
+                    [id] => 5607ee98bd0681.90318534
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:26:56 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4156
+                    [id] => 5607ee9c708e19.89474197
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:26:59 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => ou4HVoe9OsrC-AXCnqnYAw","pid":0,"req":-8,"session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=ou4HVoe9OsrC-AXCnqnYAw
+            [pid] => 0
+            [req] => -8
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:27:09 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/?gfe_rd] => ssl
+    [ei] => ou4HVoe9OsrC-AXCnqnYAw#q=ipv4 address exhaustion","pid":0,"req":-9,"session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/?gfe_rd=ssl&ei=ou4HVoe9OsrC-AXCnqnYAw#q=ipv4+address+exhaustion
+            [pid] => 0
+            [req] => -9
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:27:22 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/#q] => tier one network
+    [safe] => off","pid":0,"req":-10,"session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/#q=tier%20one%20network&safe=off
+            [pid] => 0
+            [req] => -10
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:27:26 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Tier_1_network
+            [pid] => 5607eebac4e6e4.53745661
+            [req] => -11
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3493
+                    [id] => 5607eebac4e6e4.53745661
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:27:29 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Cogent_Communications
+            [pid] => 5607eebe8cf8d0.77844763
+            [req] => -12
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3332
+                    [id] => 5607eebe8cf8d0.77844763
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:27:34 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Internet_service_provider
+            [pid] => 5607eec1c5f738.98311908
+            [req] => -13
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4325
+                    [id] => 5607eec1c5f738.98311908
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:27:37 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Cogent_Communications
+            [pid] => 5607eec6148886.76797862
+            [req] => -14
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 3250
+                    [id] => 5607eec6148886.76797862
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:27:41 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://en.wikipedia.org/wiki/Degree_(graph_theory)
+            [pid] => 5607eec1c5f738.98311908
+            [req] => -15
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 4411
+                    [id] => 5607eec1c5f738.98311908
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:28:08 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 26714
+                    [id] => 5607eecdcde6c7.84937512
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:28:11 PM
+POST: Array
+(
+    [{"query":{"url":"http://www_ideascape_ml/?session] => 5607ee504c7869.74857163","pid":0,"req":-16,"session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://www.ideascape.ml/?session=5607ee504c7869.74857163
+            [pid] => 0
+            [req] => -16
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:28:20 PM
+POST: Array
+(
+    [{"query":{"url":"http://www_ideascape_ml/bluemix/index_php?session] => 5607ee504c7869.74857163","pid":0,"req":-17,"session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"},"viewTime":[{"elapsedTime":9234,"id":"5607eeeb9fd768.83686264","session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://www.ideascape.ml/bluemix/index.php?session=5607ee504c7869.74857163
+            [pid] => 0
+            [req] => -17
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 9234
+                    [id] => 5607eeeb9fd768.83686264
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:28:44 PM
+POST: Array
+(
+    [{"query":{"url":"https://www_google_com/cloudprint/#jobs?q] => user:all printerid:383c8450-5f24-b2e0-d3a5-fe5fd4e02932","pid":0,"req":-18,"session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"},"viewTime":[{"elapsedTime":24144,"id":"5607eef4aa1904.83404227","session":"5607ee504c7869.74857163","token":"5607ee504c8ea0.71886628"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://www.google.com/cloudprint/#jobs?q=user:all%20printerid:383c8450-5f24-b2e0-d3a5-fe5fd4e02932
+            [pid] => 0
+            [req] => -18
+            [session] => 5607ee504c7869.74857163
+            [token] => 5607ee504c8ea0.71886628
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 24144
+                    [id] => 5607eef4aa1904.83404227
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:28:47 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 2991
+                    [id] => 5607ef0cdc62d1.82485000
+                    [session] => 5607ee504c7869.74857163
+                    [token] => 5607ee504c8ea0.71886628
+                )
+
+        )
+
+)
+
+Sunday, September 27th 2015 - 1:53:21 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Monday, September 28th 2015 - 7:57:02 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => https://piazza.com/
+            [pid] => 0
+            [req] => -3
+            [session] => 5607f4d12c1ec9.42762282
+            [token] => 5607f4d12c2ce7.57770892
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Tuesday, September 29th 2015 - 6:34:29 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [mode] => create
+)
+
+Tuesday, September 29th 2015 - 6:34:39 PM
+POST: Array
+(
+    [{"query":{"url":"http://www_imagescape_ml/?session] => 560ad9b53e1760.11795297","pid":0,"req":-2,"session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"},"viewTime":[]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://www.imagescape.ml/?session=560ad9b53e1760.11795297
+            [pid] => 0
+            [req] => -2
+            [session] => 560ad9b53e1760.11795297
+            [token] => 560ad9b53e2a27.82079647
+        )
+
+    [viewTime] => Array
+        (
+        )
+
+)
+
+Tuesday, September 29th 2015 - 6:34:42 PM
+POST: Array
+(
+    [{"query":{"url":"http://www_imagescape_ml/?session] => 560ad9b53e1760.11795297","pid":0,"req":-3,"session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"},"viewTime":[{"elapsedTime":103,"id":"560ad9bf75a396.08543634","session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://www.imagescape.ml/?session=560ad9b53e1760.11795297
+            [pid] => 0
+            [req] => -3
+            [session] => 560ad9b53e1760.11795297
+            [token] => 560ad9b53e2a27.82079647
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 103
+                    [id] => 560ad9bf75a396.08543634
+                    [session] => 560ad9b53e1760.11795297
+                    [token] => 560ad9b53e2a27.82079647
+                )
+
+        )
+
+)
+
+Tuesday, September 29th 2015 - 6:34:48 PM
+POST: Array
+(
+    [{"query":{"url":"http://www_imagescape_ml/bluemix/?session] => 560ad9b53e1760.11795297","pid":0,"req":-4,"session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"},"viewTime":[{"elapsedTime":6775,"id":"560ad9bf75a396.08543634","session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://www.imagescape.ml/bluemix/?session=560ad9b53e1760.11795297
+            [pid] => 0
+            [req] => -4
+            [session] => 560ad9b53e1760.11795297
+            [token] => 560ad9b53e2a27.82079647
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 6775
+                    [id] => 560ad9bf75a396.08543634
+                    [session] => 560ad9b53e1760.11795297
+                    [token] => 560ad9b53e2a27.82079647
+                )
+
+        )
+
+)
+
+Tuesday, September 29th 2015 - 6:34:54 PM
+POST: Array
+(
+    [{"query":{"url":"http://www_imagescape_ml/bluemix/index_php?session] => 560ad9b53e1760.11795297","pid":0,"req":-5,"session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"},"viewTime":[{"elapsedTime":5936,"id":"560ad9c886dd89.79933302","session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://www.imagescape.ml/bluemix/index.php?session=560ad9b53e1760.11795297
+            [pid] => 0
+            [req] => -5
+            [session] => 560ad9b53e1760.11795297
+            [token] => 560ad9b53e2a27.82079647
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5936
+                    [id] => 560ad9c886dd89.79933302
+                    [session] => 560ad9b53e1760.11795297
+                    [token] => 560ad9b53e2a27.82079647
+                )
+
+        )
+
+)
+
+Tuesday, September 29th 2015 - 6:34:59 PM
+POST: Array
+(
+    [{"query":{"url":"http://imagescape_ml/bluemix/index_php?session] => 560ad9b53e1760.11795297","pid":0,"req":-6,"session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"},"viewTime":[{"elapsedTime":5266,"id":"560ad9ce901a83.89740118","session":"560ad9b53e1760.11795297","token":"560ad9b53e2a27.82079647"}]}
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+            [url] => http://imagescape.ml/bluemix/index.php?session=560ad9b53e1760.11795297
+            [pid] => 0
+            [req] => -6
+            [session] => 560ad9b53e1760.11795297
+            [token] => 560ad9b53e2a27.82079647
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 5266
+                    [id] => 560ad9ce901a83.89740118
+                    [session] => 560ad9b53e1760.11795297
+                    [token] => 560ad9b53e2a27.82079647
+                )
+
+        )
+
+)
+
+Tuesday, September 29th 2015 - 6:35:08 PM
+POST: Array
+(
+)
+GET: Array
+(
+)
+BODY: stdClass Object
+(
+    [query] => stdClass Object
+        (
+        )
+
+    [viewTime] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [elapsedTime] => 8369
+                    [id] => 560ad9d3992b55.53869638
+                    [session] => 560ad9b53e1760.11795297
+                    [token] => 560ad9b53e2a27.82079647
+                )
+
+        )
+
+)
+
